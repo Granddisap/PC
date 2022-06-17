@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "273c71a6-a23c-4c03-a46a-3580740525f0": {
+      "ProjectGuid": "273c71a6-a23c-4c03-a46a-3580740525f0",
+      "DisplayName": "openmp5",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

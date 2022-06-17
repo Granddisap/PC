@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\PC\openmp5\openmp5\main.cpp(25,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  openmp5.vcxproj -> D:\PC\openmp5\x64\Debug\openmp5.exe
